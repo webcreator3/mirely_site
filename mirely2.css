@@ -4,19 +4,12 @@
   }
   
   body {
-    display: grid;
-    place-items: center;
-    height: 100vh;
-    margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    background-color: #00ff22;
   }
   
   .count-particles{
-    background: #f1f1f1;
-    position: sticky;
-    top: 48px;
-    left: 0;
-    width: 80px;
+    background: #00ff22;
   }
   
   .js-count-particles{
